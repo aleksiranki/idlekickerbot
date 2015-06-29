@@ -1,12 +1,12 @@
 # idlekickerbot
 Node.js IRCbot which kicks idlers
 
-Requirements:
-node - https://nodejs.org/
+Requirements: \
+node - https://nodejs.org/\
 node-irc - https://github.com/martynsmith/node-irc
 
-Usage: 
+Usage: \
 $ node idlekicker.js
 
-Configuration:
+Configuration: \
 Edit idlekicker.js and change the values of config variable.
